@@ -1,0 +1,17 @@
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib2.deps.json
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib2.runtimeconfig.json
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib2.dll
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib2.pdb
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib1.dll
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\bin\Debug\net7.0\ClassLib1.pdb
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.csproj.AssemblyReference.cache
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.AssemblyInfoInputs.cache
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.AssemblyInfo.cs
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.csproj.CopyComplete
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.dll
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\refint\ClassLib2.dll
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.pdb
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ClassLib2.genruntimeconfig.cache
+C:\Users\Tiger\Desktop\Quicker\EFcoreDemo\ClassLib2\obj\Debug\net7.0\ref\ClassLib2.dll
